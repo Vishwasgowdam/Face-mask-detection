@@ -8,11 +8,11 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - email: chandrikadeb7@gmail.com
-    family-names: Deb
-    given-names: Chandrika
+  - email: mvishwasgowda@gmail.com
+    family-names: G
+    given-names: Vishwasgowda M
 repository-code: >-
-  https://github.com/chandrikadeb7/Face-Mask-Detection
+  https://github.com/Vishwasgowdam/Face-mask-detection.git
 license: MIT
 version: v1.0.0
 date-released: '2022-02-27'
